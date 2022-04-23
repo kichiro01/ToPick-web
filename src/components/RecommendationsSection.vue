@@ -89,11 +89,11 @@ export default {
     return {
       recommendList: recommendations.recommendations,
       bgimgs: [
-        '/images/r_timeKiller/r_timeKiller@2x.png',
-        '/images/r_firstMeet/r_firstMeet@2x.png',
-        '/images/r_igai/r_igai@2x.png',
-        '/images/r_2options/r_2options@2x.png',
-        '/images/r_ES/r_ES@2x.png'
+        '/ToPick-web/images/r_timeKiller/r_timeKiller@2x.png',
+        '/ToPick-web/images/r_firstMeet/r_firstMeet@2x.png',
+        '/ToPick-web/images/r_igai/r_igai@2x.png',
+        '/ToPick-web/images/r_2options/r_2options@2x.png',
+        '/ToPick-web/images/r_ES/r_ES@2x.png'
       ]
     }
   },

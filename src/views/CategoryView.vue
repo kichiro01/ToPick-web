@@ -94,18 +94,18 @@ export default {
       spotNum: 0,
       bgimgs: [],
       cbgimgs: [
-        '/images/c_general/c_general@2x.png',
-        '/images/c_love/c_love@2x.png',
-        '/images/c_life/c_life@2x.png',
-        '/images/c_school/c_school@2x.png',
-        '/images/c_friends/c_friends@2x.png',
-        '/images/c_serious/c_serious@2x.png'
+        '/ToPick-web/images/c_general/c_general@2x.png',
+        '/ToPick-web/images/c_love/c_love@2x.png',
+        '/ToPick-web/images/c_life/c_life@2x.png',
+        '/ToPick-web/images/c_school/c_school@2x.png',
+        '/ToPick-web/images/c_friends/c_friends@2x.png',
+        '/ToPick-web/images/c_serious/c_serious@2x.png'
       ],
       sbgimgs: [
-        '/images/s_nomikai/s_nomikai@2x.png',
-        '/images/s_gokon/s_gokon@2x.png',
-        '/images/s_date/s_date@2x.png',
-        '/images/s_bonenkai/s_bonenkai@2x.png'
+        '/ToPick-web/images/s_nomikai/s_nomikai@2x.png',
+        '/ToPick-web/images/s_gokon/s_gokon@2x.png',
+        '/ToPick-web/images/s_date/s_date@2x.png',
+        '/ToPick-web/images/s_bonenkai/s_bonenkai@2x.png'
       ]
     }
   },
