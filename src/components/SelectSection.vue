@@ -75,7 +75,7 @@
   text-decoration: none;
 }
 .table a:link {
-  color: orange;
+  color: black;
 }
 .table a:visited {
   color: black;
