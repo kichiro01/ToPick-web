@@ -1,0 +1,29 @@
+{
+    "recommendations": [
+        {
+            "category_id": 0,
+            "category_name": ["暇つぶし話題３０選", "Killing Time"],
+            "img_url_snippet": "r_timeKiller"
+        },
+        {
+            "category_id": 1,
+            "category_name": ["初対面話題決定版", "With a stranger"],
+            "img_url_snippet": "r_firstMeet"
+        },
+        {
+            "category_id": 2,
+            "category_name": ["地味に知らないこんな一面", "Unexpected side of you"],
+            "img_url_snippet": "r_igai"
+        },
+        {
+            "category_id": 3,
+            "category_name": ["究極の二択", "The ultimate two choices"],
+            "img_url_snippet": "r_2options"
+        },
+        {
+            "category_id": 4,
+            "category_name": ["ES・面接で問われる就活話題", "Questions in a Job interbiew"],
+            "img_url_snippet": "r_ES"
+        }
+    ]
+}

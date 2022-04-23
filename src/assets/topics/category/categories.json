@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "category_id": 0,
+            "category_name": ["一般", "General"],
+            "description1": ["一般的な話題を提供します。", "These are general topics."],
+            "description2": ["困った時はこれ！", "Start talking with these anyway."],
+            "img_url_snippet": "c_general"
+        },
+        {
+            "category_id": 1,
+            "category_name": ["恋愛", "Love"],
+            "description1": ["恋愛に関する話題を提供します。", "These are topics about love."],
+            "description2": ["＊恋人同士での利用に不適切な話題を含みます。", "＊This category contain inappropriate topics for a couple."],
+            "img_url_snippet": "c_love"
+        },
+        {
+            "category_id": 2,
+            "category_name": ["人生", "Life"],
+            "description1": ["人生に関する話題を提供します。", "These are topics about a life."],
+            "description2": ["少し深い話をしたい時に。", "When you want deep conversation"],
+            "img_url_snippet": "c_life"
+        },
+        {
+            "category_id": 3,
+            "category_name": ["学校", "School"],
+            "description1": ["学校に関する話題を提供します。", "These are topics about a school."],
+            "description2": ["たまには過去を懐かしむのも良いですね。", "You should look back to the past sometimes."],
+            "img_url_snippet": "c_school"
+        },
+        {
+            "category_id": 4,
+            "category_name": ["友達", "Friends"],
+            "description1": ["友人に関する話題を提供します。", "These are topics about a school."],
+            "description2": ["友達の友達で面白い人がきっといます。", "Your friend's friend must be a person you like."],
+            "img_url_snippet": "c_friends"
+        },
+        {
+            "category_id": 5,
+            "category_name": ["真面目", "Serious"],
+            "description1": ["少し真面目な話題を提供します。", "These are a bit serious topics."],
+            "description2": ["真面目な話ができる友達って良いですよね。", "Being a good friends might requre having serious conversation."],
+            "img_url_snippet": "c_serious"        
+        }
+    ]
+}

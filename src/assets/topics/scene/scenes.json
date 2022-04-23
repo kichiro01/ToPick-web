@@ -1,0 +1,32 @@
+{
+    "scenes": [
+        {
+            "category_id": 0,
+            "category_name": ["飲み会", "With some drink"],
+            "description1": ["飲み会の途中で話題がなくなってスマホいじるって", "Drink is a good facilitation for conversation"],
+            "description2": ["よくありますよね。この話題で解決しましょう。", "Be talkative♪"],
+            "img_url_snippet": "s_nomikai"
+        },
+        {
+            "category_id": 1,
+            "category_name": ["合コン", "Group blind date"],
+            "description1": ["初対面の男女って何を話したら良いんでしょうか。", "”Nice to meet you, .... ” "],
+            "description2": ["この話題であなたもモテモテ...かも。", "then What? Here is the answer."],
+            "img_url_snippet": "s_gokon"
+        },
+        {
+            "category_id": 2,
+            "category_name": ["デート", "Date"],
+            "description1": ["関係のマンネリ化より会話のマンネリ化の方が早いですよね。", "Topics run out faster than love."],
+            "description2": ["実は知らなかったパートナーの一面が見れるかも。", "You might find hidden personality of your partner."],
+            "img_url_snippet": "s_date"
+        },
+        {
+            "category_id": 3,
+            "category_name": ["忘年会", "Year-end"],
+            "description1": ["一年を振り返る話題がたくさん。", "These are topics to look back on this year."],
+            "description2": ["来年も良い一年でありますように。", "May next year be good year too!"],
+            "img_url_snippet": "s_bonenkai"
+        }
+    ]
+}
