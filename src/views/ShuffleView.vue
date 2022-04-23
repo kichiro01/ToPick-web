@@ -3,7 +3,7 @@
     <HeaderComponent :headerProps="headerProps"></HeaderComponent>
     <div class="appWrapper">
         <div class="topicArea">
-            <img src='/ToPick-web/images/shuffle/slotmachine.png' alt='slotmachine' class="slotmachine">
+            <img src='/images/shuffle/slotmachine.png' alt='slotmachine' class="slotmachine">
             <div class="pickedTopic">
                 {{ pickedTopic[0] }}
             </div>
@@ -95,7 +95,7 @@ export default {
         propertyName: 'shuffleHeader'
       },
       isStop: true,
-      imgUrl: '/ToPick-web/images/shuffle/button_stop.png',
+      imgUrl: '/images/shuffle/button_stop.png',
       topicList: [],
       pickedTopic: ''
     }
@@ -134,13 +134,13 @@ export default {
           this.shuffle()
           remainList.splice(topicIndex, 1)
         } else {
-          this.imgUrl = '/ToPick-web/images/shuffle/button_stop.png'
+          this.imgUrl = '/images/shuffle/button_stop.png'
           timer = setInterval(this.shuffle, 25)
           this.isStop = false
         }
       } else {
         // ストップする
-        this.imgUrl = '/ToPick-web/images/shuffle/button_shuffle.png'
+        this.imgUrl = '/images/shuffle/button_shuffle.png'
         clearInterval(timer)
         if (remainList.length > 0) {
           remainList.splice(topicIndex, 1)

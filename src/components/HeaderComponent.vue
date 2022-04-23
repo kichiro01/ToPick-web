@@ -1,6 +1,6 @@
 <template>
     <header :class="headerProps.propertyName">
-        <img v-if="headerProps.isImageTitle" src="/ToPick-web/images/header-parts/header.png" alt="ヘッダーイメージ">
+        <img v-if="headerProps.isImageTitle" src="images/header-parts/header.png" alt="ヘッダーイメージ">
         <span v-if="!headerProps.isImageTitle">{{ headerProps.title }}</span>
     </header>
 </template>

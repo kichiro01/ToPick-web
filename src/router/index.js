@@ -25,7 +25,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/ToPick-web'),
+  history: createWebHistory(),
   routes
 })
 

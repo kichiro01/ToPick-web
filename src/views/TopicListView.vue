@@ -202,7 +202,7 @@ export default {
         const category = categories.categories[categoryId]
         this.headerProps.title = category.category_name[0]
         const snippet = category.img_url_snippet
-        const imgUrl = '/ToPick-web/images/' + snippet + '/' + snippet + '_background.png'
+        const imgUrl = '/images/' + snippet + '/' + snippet + '_background.png'
         this.backgroundImgStyle.backgroundImage = "url('" + imgUrl + "')"
         this.topicList = cTopics.topics[categoryId]
         this.showDescription = true
@@ -213,7 +213,7 @@ export default {
         const scene = scenes.scenes[categoryId]
         this.headerProps.title = scene.category_name[0]
         const snippet = scene.img_url_snippet
-        const imgUrl = '/ToPick-web/images/' + snippet + '/' + snippet + '_background.png'
+        const imgUrl = '/images/' + snippet + '/' + snippet + '_background.png'
         this.backgroundImgStyle.backgroundImage = "url('" + imgUrl + "')"
         this.topicList = sTopics.topics[categoryId]
         this.showDescription = true
@@ -224,7 +224,7 @@ export default {
         const recommendation = recommendations.recommendations[categoryId]
         this.headerProps.title = recommendation.category_name[0]
         const snippet = recommendation.img_url_snippet
-        const imgUrl = '/ToPick-web/images/' + snippet + '/' + snippet + '_background.png'
+        const imgUrl = '/images/' + snippet + '/' + snippet + '_background.png'
         this.backgroundImgStyle.backgroundImage = "url('" + imgUrl + "')"
         this.topicList = rTopics.topics[categoryId]
         this.showDescription = false
